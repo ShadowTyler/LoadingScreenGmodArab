@@ -1,0 +1,13 @@
+.header
+{
+	min-height: 100px;
+	margin-top: 50px;
+}
+
+.header-logo
+{
+	text-align: center;
+	font-family: 'Lato', sans-serif; /* Default Font Family */
+	font-weight: 700;
+	font-size: 3.5rem;
+}

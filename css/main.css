@@ -1,0 +1,48 @@
+
+
+
+
+/*
+	Foundation
+*/
+
+.row
+{
+	
+}
+
+.columns
+{
+	padding: 0px;
+}
+
+.column
+{
+	padding: 0px;
+}
+
+
+
+/*
+	Settings
+*/
+
+.bold
+{
+	font-weight: 700;
+}
+
+.thin
+{
+	font-weight: 200;
+}
+
+.large
+{
+	font-size: 1rem;
+}
+
+.small
+{
+	font-size: 0.75rem;
+}
